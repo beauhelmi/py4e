@@ -2,10 +2,10 @@
 
 ## First day practicing Python3
 
-### 1 April 2023 (ex_03)
+1 April 2023 (ex_03)
 
 ## Second day practicing Python3
 
-## 3 April 2023 (ex_04)
+3 April 2023 (ex_04)
 
 
